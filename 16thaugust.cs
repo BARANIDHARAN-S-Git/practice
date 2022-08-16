@@ -8,7 +8,7 @@ class datetime
     {
         Console.WriteLine(DateTime.Now);
         Console.ReadLine() ; 
-    }
+     } 
 }
 
 
